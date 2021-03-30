@@ -5,7 +5,7 @@
 # DEMO<br>
 簡単な質問に答えるだけで、あなたにおすすめの温泉を診断します！<br>
 ＜診断結果の一例＞<br>
-<img width="400" alt="onsen_3" src="https://user-images.githubusercontent.com/80142146/112857872-4341cf00-90ec-11eb-9e46-0de9893f2897.png"><br>
+<img width="600" alt="onsen_3" src="https://user-images.githubusercontent.com/80142146/112857872-4341cf00-90ec-11eb-9e46-0de9893f2897.png"><br>
 もう少し勉強したら、ページ下部のリンクから旅行の予約ができるような仕組みを作りたいです。
 
 # Features
