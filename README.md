@@ -3,9 +3,9 @@
 おすすめの温泉地を診断するWebアプリ
 
 # DEMO<br>
-質問に答えていくと…
+質問に答えていくと…<br>
 <img width="400" alt="onsen_3" src=https://user-images.githubusercontent.com/80142146/112857850-3fae4800-90ec-11eb-9095-cd7bd5e9ab98.png"><br><br>
-あなたにおすすめの温泉を診断します！
+あなたにおすすめの温泉を診断します！<br>
 <img width="400" alt="onsen_3" src="https://user-images.githubusercontent.com/80142146/112857872-4341cf00-90ec-11eb-9e46-0de9893f2897.png"><br>
 もう少し勉強したら、ページ下部のリンクから旅行の予約ができるような仕組みを作りたいです。
 
