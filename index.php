@@ -83,6 +83,6 @@
       <input class="yn_btn" type="submit" name="last_ans" value="コスパ重視！">
     </div>
   </form>
-  
+ 
 </body>
 </html>
